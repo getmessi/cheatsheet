@@ -1,0 +1,40 @@
+th, td, table {
+    border: 2px solid black;
+    
+}
+table {
+    border-collapse: collapse;
+}
+th h1 {
+    font-size: 36px;
+    color:goldenrod;
+    background-color: blanchedalmond;
+
+}
+header h1{
+    text-align: center;
+}
+strong {
+    color:red
+    
+}
+.left {
+    color: rgb(20, 193, 77);
+    font-weight:700;
+    
+}
+#types {
+    color:darkmagenta;
+}
+h1{
+    font-family: monospace, 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-size:60px;
+    background-color: aqua;
+}
+th h2{
+    color:blue
+}
+.unbold {
+    font-weight:300;
+}
